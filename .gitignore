@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 
 lib-cov
 *.seed
@@ -8,6 +8,7 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.npmignore
 
 pids
 logs
