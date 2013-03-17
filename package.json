@@ -1,6 +1,6 @@
 {
   "author": "Derek Ahmedzai <derek@sharpshooter.org> (http://www.sharpshooter.org)",
-  "name": "Jammy",
+  "name": "jammy",
   "description": "Lightweight wrapper for the thisismyjam.com API",
   "version": "0.1.0",
   "dependencies": {
